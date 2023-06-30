@@ -2,7 +2,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  background-color: rgb(251, 216, 222);
 }
 
 h1 {
@@ -54,7 +54,7 @@ input[type="button"] {
 }
 
 input[type="button"]:hover {
-  background-color: #ddd;
+    background-color: rgb(251, 216, 222);
 }
 
 input[type="button"]:last-child {
