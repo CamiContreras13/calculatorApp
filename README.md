@@ -5,4 +5,4 @@
 2. CSS
 3. JavaScript
 
-## 🚀 Link to see it: https://ephemeral-bombolone-cdde62.netlify.app 
+## 🚀 Link to see it: https://calculator-app-camicontreras13.netlify.app
